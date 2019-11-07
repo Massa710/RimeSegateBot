@@ -1,0 +1,17 @@
+{
+  "automaticFilename": false,
+  "saveFolder": "download",
+  "overwriteCheck": false,
+  "noDownloadWizard": true,
+  "newDownloadMethod": true,
+  "videoToMP4": false,
+  "videoTimeout": 9999,
+  "readTimeout": 400,
+  "connectTimeout": 400,
+  "thumbnailArgumentDivider": ";",
+  "openloadThumbnail": false,
+  "openloadThumbnailDelaySeconds": 60,
+  "token": "1010973364:AAE4EAiPzgoVnKvhA6N5b-x2-m__fLuql_A",
+  "openload_api_login": "<OPENLOAD_API_LOGIN>",
+  "openload_api_key": "<OPENLOAD_API_KEY>"
+}
